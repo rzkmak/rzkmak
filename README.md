@@ -4,6 +4,8 @@ Poke me at hello@rizki.my.id.
 
 <!--START_SECTION:waka-->
 ```text
+Week: 10 August, 2020 - 17 August, 2020
+
 PHP     1 hr 28 mins    █████████████████████████   99.76 % 
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 SQL     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
