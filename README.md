@@ -2,6 +2,8 @@ Nice to meet you!. I'm a tech enthusiast who loves to learn about new things.
 
 Poke me at hello@rizki.my.id.
 
+
+Wakatime Stats
 <!--START_SECTION:waka-->
 ```text
 Go     183 hrs 31 mins ██████▒░░░░░░░░░░░░░░░░░░   25.24 % 
