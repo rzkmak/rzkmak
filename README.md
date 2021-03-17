@@ -14,4 +14,4 @@ I'm a 24 yo Software Engineer based on Indonesia 🇮🇩
 
 #### 💻 Coding Statistic
 
-<img src="https://wakatime.com/share/@ede1b5fe-26f6-497d-825a-950073cfc3ad/43e63c44-ea5b-4689-a497-297be247d5d7.png" width="50%" align='left'>
+<figure><embed src="https://wakatime.com/share/@ede1b5fe-26f6-497d-825a-950073cfc3ad/ee23ab24-7c07-42bf-94d3-c79d9bd0cc7a.svg"></embed></figure>
