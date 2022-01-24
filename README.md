@@ -1,16 +1,13 @@
 > /'riz.ki ma.u.la.na/
 
-I'm a 24 yo Software Engineer based on Indonesia 🇮🇩
+I'm a 25 yo Software Engineer based on Indonesia 🇮🇩
 
-- 📖 currently learning about 日本語 language
-- 🎵 mainly listening to yoasobi, nano.RIPE, Aimer, Roselia, BACK-ON
-- 🧠 motto: "Starting too soon is one problem, but waiting too long may be even worse."
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizkimaulanaakbar) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizkimaulanaakbar/) 
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rizkimaulanaakbar@outlook.com) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/rzkmak) 
 
-#### 📫 How to reach me:
-
-- Website: [rizkima.com](https://rizkima.com/)
-- Email: [mail@rizkima.com](mailto:mail@rizkima.com)
-- Telegram: [@rizkimaulanaakbar](https://t.me/rizkimaulanaakbar)
+"Starting too soon is one problem, but waiting too long may be even worse."
 
 #### 💻 Coding Statistic
 
